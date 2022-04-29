@@ -1,0 +1,41 @@
+Szczebel Wyższy - Rada Nadzorcza, Prezes Zarządu:
+1. Uchwalenie budżetu na nadchodzący projekt
+2. Reprezentacja firmy i jej interesów podczas spotkań na wyższym
+   szczeblu czy w toku administracyjnym.
+3.  Planowanie założeń i celów finansowych oraz rozwojowych firmy
+    oraz zlecanie ich wykonania i dopilnowania
+
+
+Szczebel Średni - Dyrektorzy, Kierownicy
+1. Wyznaczenie zadań dla Brygadzistów
+2. Wdrażanie planów i strategii rozwoju firmy
+3. Weryfikowanie postępów w projekcie i wprowadzanie niezbędnych
+   do jego realizacji zmian.
+
+Szczebel Operacyjny - Brygadziści, Team Leaderzy
+1. Dbanie o rozwój pracowników i organizowanie im szkoleń w celu
+   poprawy ich kompetencji
+2. Nadzorowanie wykonywanej pracy
+3. Składanie raportów z postępów prac kierownikom i dyrektorom
+
+
+1. Powitać zespół, przedstawić się i zapoznać z całym zespołem.
+2. Zapytać o aktualne trudności w projekcie i sprawy potrzebujące rozwiązania.
+3. Przedstawić aktualny Burn Up Chart.
+		a. Podkreślić potrzebę przyspieszenia realizacji projektu.
+		b. Zwrócenie uwagi na spadek prędkości wraz ze wzrostem rozmiaru
+			projektu.
+		c. Dowiedzieć się czym spowodowany jest spadek prędkości w ostatnich
+			2 sprintach.
+		d. Dopytać o ewentualne możliwe sposoby przyspieszenia pracy.
+		e. W przypadku braku propozycji w punkcie (d) zaproponować
+			nadgodziny lub zmianę podziału ról w zespole i przeniesienie większej
+			liczby osób do problematycznych obszarów projektu
+4. Zapytać o planowane opóźnienia związane z np. urlopem, delegacją,
+	szkoleniem itp.
+5. Zapytać czy aktualny termin zakończenia projektu jest możliwy do
+	zrealizowania.
+6. Dowiedzieć się o oczekiwania członków zespołu względem nowego
+	managera.
+7. Czas na pytania i odpowiedzi.
+8. Pożegnać się z zespołem.
