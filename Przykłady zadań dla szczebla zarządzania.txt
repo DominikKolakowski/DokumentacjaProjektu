@@ -19,6 +19,7 @@ Szczebel Operacyjny - Brygadziści, Team Leaderzy
 3. Składanie raportów z postępów prac kierownikom i dyrektorom
 
 
+Spotkanie z zespołem
 1. Powitać zespół, przedstawić się i zapoznać z całym zespołem.
 2. Zapytać o aktualne trudności w projekcie i sprawy potrzebujące rozwiązania.
 3. Przedstawić aktualny Burn Up Chart.
